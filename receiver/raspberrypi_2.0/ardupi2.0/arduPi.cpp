@@ -1256,34 +1256,36 @@ int digitalRead(int pin){
 
 int analogRead (int pin){
 
-	int value;
-	char selected_channel[1];
-	char read_values[2];
+int value;
+int address; 
 
 	if (pin == 0) {
-		selected_channel[0] = 0xDC;
+		address = 0xDC;
 	} else if (pin == 1){
-		selected_channel[0] = 0x9C;
+		address = 0x9C;
 	} else if (pin == 2){ 
-		selected_channel[0] = 0xCC ;
+		address = 0xCC ;
 	} else if (pin == 3){ 
-		selected_channel[0] = 0x8C;
+		address = 0x8C;
 	} else if (pin == 4){ 
-		selected_channel[0] = 0xAC;
+		address = 0xAC;
 	} else if (pin == 5){ 
-		selected_channel[0] = 0xEC;
+		address = 0xEC;
 	} else if (pin == 6){ 
-		selected_channel[0] = 0xBC;
+		address = 0xBC;
 	} else if (pin == 7){ 
-		selected_channel[0] = 0xFC;
+		address = 0xFC;
 	}
 	
+		
 	Wire.begin();
 	Wire.beginTransmission(8); 
-	Wire.read_rs(selected_channel, read_values, 2);
-	Wire.read_rs(selected_channel, read_values, 2);
-
-	value = int(read_values[0])*16 + int(read_values[1]>>4);
+	Wire.write(byte(address));            
+  
+	byte val_0 = (byte)Wire.read();
+	byte val_1 = (byte)Wire.read();
+	
+	value = int(val_0)*16 + int(val_1>>4);
 	value = value * 1023 / 4095;  //mapping the value between 0 and 1023
 	return value;
 }

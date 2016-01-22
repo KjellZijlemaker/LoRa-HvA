@@ -179,11 +179,11 @@ byte SX1272::readRegister(byte address)
 	digitalWrite(SX1272_SS,HIGH);
 
     #if (SX1272_debug_mode > 1)
-       // printf("## Reading:  ##\tRegister ");
-		//printf("%X", address);
-		//printf(":  ");
-		//printf("%X", rxbuf[1]);
-		//printf("\n");
+        printf("## Reading:  ##\tRegister ");
+		printf("%X", address);
+		printf(":  ");
+		printf("%X", rxbuf[1]);
+		printf("\n");
 	#endif
 
     return rxbuf[1];
@@ -209,12 +209,12 @@ void SX1272::writeRegister(byte address, byte data)
 	//digitalWrite(SX1272_SS,HIGH);
 
     #if (SX1272_debug_mode > 1)
-        //printf("## Writing:  ##\tRegister ");
-		//bitClear(address, 7);
-		//printf("%X", address);
-		//printf(":  ");
-		//printf("%X", data);
-		//printf("\n");
+        printf("## Writing:  ##\tRegister ");
+		bitClear(address, 7);
+		printf("%X", address);
+		printf(":  ");
+		printf("%X", data);
+		printf("\n");
 	#endif
 
 }
