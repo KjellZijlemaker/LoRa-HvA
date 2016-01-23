@@ -25,7 +25,6 @@
 // Include the SX1272 and SPI library: 
 #include "SX1272.h"
 #include <time.h>
-#include <math.h>
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -34,15 +33,20 @@
 #include <chrono>
 using namespace std;
 
-string Received_message = "";
 int packetCounter = 0;
 int e;
-char my_packet[255];
+char my_packet[100];
+time_t start;
+time_t ending;
+double elapsed;
+
 FILE *f;
 time_t rawtime;
+
 struct tm * timeinfo;
 std::ofstream myfile;
 
+int loop_count = 1;
 
 void setup()
 {
@@ -76,44 +80,112 @@ void setup()
   // Set the node address
   e = sx1272.setNodeAddress(8);
   printf("Setting Node address: state %d\n", e);
+  
+
 
   // Print a success message
   printf("SX1272 successfully configured\n\n");
   delay(1000);
-  
 }
+
+
+
+
 
 void loop(void)
 { 
+  //char* m = "Packet:";  
+ 
+  time (&rawtime);
+  timeinfo = localtime (&rawtime);
+  
+  char* time_message = asctime(timeinfo);
+  packetCounter++;    
+  
+    if( loop_count == 1 ){
+
+
+       time(&start);
+
+
+       loop_count = 0;
+    }
+
+
+
+    std::string str1 = "Packet: " + std::to_string(packetCounter) + " ";
+    std::string str2 = std::string(time_message);
+    std::string str3 = str1 + str2;
+    myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
+    myfile <<  str3;
+    myfile.close();
+
+    do {
+        time(&ending);
+        elapsed = difftime(ending, start);
+        /* For most data types one could simply use
+            elapsed = end - start;
+            but for time_t one needs to use difftime(). */
+
+        printf("Time elapsed: &#37;f\n", elapsed);
+    } while(elapsed < 10);
+
+
+
   // Receive message
   e = sx1272.receivePacketTimeoutACK(10000);
   if ( e == 0 )
   {
 
+    if( loop_count == 1 ){
+       
+ 
+       time(&start); 
+       
+       
+       loop_count = 0;
+    }
+
+
     printf("Receive packet with ACK and retries, state %d\n",e);
-    packetCounter++; 
+    
 
     for (unsigned int i = 0; i < sx1272.packet_received.length; i++)
     {
       my_packet[i] = (char)sx1272.packet_received.data[i];     
       
     }
-	//Writing message, packet counter and received timestamp to file.
-	
-    Received_message = "Message: %s\n", my_packet;
-	
-    time (&rawtime);
-	timeinfo = localtime (&rawtime);
-	char* time = asctime(timeinfo);
-	
+    printf("Message: %s\n", my_packet);
+  
     std::string str1 = "Packet: " + std::to_string(packetCounter) + " ";
-    std::string str2 = std::string(time);
+    std::string str2 = std::string(time_message);
     std::string str3 = str1 + str2;
     myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
     myfile <<  str3;
-	myfile <<  Received_message;
-	myfile <<  endl;
     myfile.close();
+    
+    do {
+        time(&ending);
+        elapsed = difftime(ending, start);
+        /* For most data types one could simply use
+            elapsed = end - start;
+            but for time_t one needs to use difftime(). */
+ 
+
+        printf("Time elapsed: &#37;f\n", elapsed);
+    } while(elapsed < 10);
+
+ 
+    int i =  sx1272.getSNR();
+    int j =  sx1272.getRSSI();
+    int l =  sx1272.getRSSIpacket();
+    //int f = sx1272.getMode();
+  //  int j = sx1272.getPreambleLength();
+//    int l = sx1272.getPacketMAXTimeout();
+ 
+
+
+
   }
   else {
     printf("Receive packet with ACK and retries, state %d\n",e);
@@ -122,12 +194,7 @@ void loop(void)
 
 int main (){
 	setup();
-        FILE *f;
-	
-	clock_t t;
-	clock_t u;
-	t = clock();
-	while((u = clock() -t) <= 300000){
+	while(1){
 		loop();
 	}
 	return (0);

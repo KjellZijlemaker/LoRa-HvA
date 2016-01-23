@@ -25,6 +25,7 @@
 // Include the SX1272 and SPI library: 
 #include "SX1272.h"
 #include <time.h>
+#include <math.h>
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -33,20 +34,15 @@
 #include <chrono>
 using namespace std;
 
+string Received_message = "";
 int packetCounter = 0;
 int e;
 char my_packet[100];
-time_t start;
-time_t ending;
-double elapsed;
-
 FILE *f;
 time_t rawtime;
-
 struct tm * timeinfo;
 std::ofstream myfile;
 
-int loop_count = 1;
 
 void setup()
 {
@@ -80,122 +76,108 @@ void setup()
   // Set the node address
   e = sx1272.setNodeAddress(8);
   printf("Setting Node address: state %d\n", e);
-  
-
 
   // Print a success message
   printf("SX1272 successfully configured\n\n");
   delay(1000);
+  
 }
 
+void checkMessage(string sf_value){
+const char* value = sf_value.c_str();
+//printf(value);
 
+if(strcmp(value, "SF_6") == 0){
+printf("To 6!");  
+sx1272.setSF(SF_6);
+}
 
+if(strcmp(value, "SF_7") == 0){
+sx1272.setSF(SF_7);
+}
 
+if(strcmp(value, "SF_8") == 0){
+sx1272.setSF(SF_8);
+}
+
+if(strcmp(value, "SF_9") == 0){
+sx1272.setSF(SF_9);
+}
+
+if(strcmp(value, "SF_10") == 0){
+sx1272.setSF(SF_10);
+}
+
+if(strcmp(value, "SF_11") == 0){
+sx1272.setSF(SF_11);
+}
+
+if(strcmp(value, "SF_12") == 0){
+printf("To 12!");
+sx1272.setSF(SF_12);
+}
+}
 
 void loop(void)
 { 
-  //char* m = "Packet:";  
- 
-  time (&rawtime);
-  timeinfo = localtime (&rawtime);
-  
-  char* time_message = asctime(timeinfo);
-  packetCounter++;    
-  
-    if( loop_count == 1 ){
-
-
-       time(&start);
-
-
-       loop_count = 0;
-    }
-
-
-
-    std::string str1 = "Packet: " + std::to_string(packetCounter) + " ";
-    std::string str2 = std::string(time_message);
-    std::string str3 = str1 + str2;
-    myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
-    myfile <<  str3;
-    myfile.close();
-
-    do {
-        time(&ending);
-        elapsed = difftime(ending, start);
-        /* For most data types one could simply use
-            elapsed = end - start;
-            but for time_t one needs to use difftime(). */
-
-        printf("Time elapsed: &#37;f\n", elapsed);
-    } while(elapsed < 10);
-
-
-
   // Receive message
   e = sx1272.receivePacketTimeoutACK(10000);
-  if ( e == 0 )
-  {
 
-    if( loop_count == 1 ){
-       
- 
-       time(&start); 
-       
-       
-       loop_count = 0;
-    }
+  if ( e == 0 ){
 
+    printf("Receive packet with ACK and retries, state %d\n", e);
+    packetCounter++; 
 
-    printf("Receive packet with ACK and retries, state %d\n",e);
-    
-
-    for (unsigned int i = 0; i < sx1272.packet_received.length; i++)
-    {
-      my_packet[i] = (char)sx1272.packet_received.data[i];     
-      
-    }
-    printf("Message: %s\n", my_packet);
-  
+	for (unsigned int i = 0; i < sx1272.packet_received.length; i++)
+	{
+		my_packet[i] = (char)sx1272.packet_received.data[i];
+	}
+	//Writing message, packet counter and received timestamp to file.
+	
+    string message1 = "Message: ";
+    string message2 (my_packet);
+    string Received_message = message1 = message2;
+	
+    time (&rawtime);
+    timeinfo = localtime (&rawtime); 
+    char* time = asctime(timeinfo);
+	
     std::string str1 = "Packet: " + std::to_string(packetCounter) + " ";
-    std::string str2 = std::string(time_message);
+    std::string str2 = std::string(time);
     std::string str3 = str1 + str2;
     myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
     myfile <<  str3;
+	myfile <<  Received_message;
+	myfile << "\n";
+	myfile <<  endl;
     myfile.close();
-    
-    do {
-        time(&ending);
-        elapsed = difftime(ending, start);
-        /* For most data types one could simply use
-            elapsed = end - start;
-            but for time_t one needs to use difftime(). */
- 
 
-        printf("Time elapsed: &#37;f\n", elapsed);
-    } while(elapsed < 10);
-
- 
-    int i =  sx1272.getSNR();
-    int j =  sx1272.getRSSI();
-    int l =  sx1272.getRSSIpacket();
-    //int f = sx1272.getMode();
-  //  int j = sx1272.getPreambleLength();
-//    int l = sx1272.getPacketMAXTimeout();
- 
-
-
-
+   checkMessage(message2);
   }
   else {
-    printf("Receive packet with ACK and retries, state %d\n",e);
+	time (&rawtime);
+	timeinfo = localtime (&rawtime);
+	char* time = asctime(timeinfo);
+	myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
+        myfile <<  "No Packet received at: " + std::string(time); 
+        myfile.close();
+        printf("No packet received, state %d\n", e);
   }
 }
 
 int main (){
 	setup();
-	while(1){
+	sx1272.setSF(SF_7);
+//	sx1272.setBW(BW_250);
+//	sx1272.setCR(CR_7);
+//	sx1272.setSF(SF_9);
+	//clock_t endwait;
+	//endwait = clock() + 300 * CLOCKS_PER_SEC;
+	//while (clock() < endwait)
+	//{
+	while(true){
 		loop();
 	}
+	//}
 	return (0);
 }

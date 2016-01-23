@@ -24,11 +24,24 @@
  
 // Include the SX1272 and SPI library: 
 #include "SX1272.h"
+#include <time.h>
+#include <math.h>
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <stdlib.h>
+#include <stdio.h>
+#include <chrono>
+using namespace std;
 
 int e;
+int packetCounter = 0;
+time_t rawtime;
+struct tm* timeinfo;
+std::ofstream myfile;
 
-char message1 [] = "HET WERKKTTT HERRRR PIETERR";
-char message2 [] = "PIETTEERRRR";
+char message1 [] = "SF7";
+//char message2 [] = "PIETTEERRRR";
 
 void setup()
 {
@@ -68,31 +81,120 @@ void setup()
   delay(1000);
 }
 
-void loop(void)
+int checkIfOnline(){
+	e = sx1272.sendPacketTimeoutACK(8, message1);
+	 if(e == 0){
+		cout << "Receiver Found, now Testing";
+		return 0;
+   	}
+	else{
+		return 1;
+	}
+}
+
+void sendNewSFValue(string sf_value){
+   char messageToSend[250];
+   strcpy(messageToSend, sf_value.c_str());
+   e = sx1272.sendPacketTimeoutACK(8, messageToSend);
+}
+
+void loop(string sf_value)
 {
+   char messageToSend[250];
+   strcpy(messageToSend, sf_value.c_str());
+
     // Send message1 and print the result
-    e = sx1272.sendPacketTimeoutACKRetries(8, message1);
-    int f = sx1272.getMode();
+    e = sx1272.sendPacketTimeoutACK(8, messageToSend);
+//    int f = sx1272.getMode();
     printf("Packet sent, state %d\n",e);
     
    if(e == 0){
 	//printf("Mode is: " + sx1272._mode);
+	packetCounter++; 
+	time (&rawtime);
+	timeinfo = localtime (&rawtime);
+	char* time = asctime(timeinfo);
+	
+    std::string str1 = "Packet: " + std::to_string(packetCounter) + " SF value: " + sf_value + "\n";
+    std::string str2 = std::string(time) + "\n";
+    std::string str3 = str1 + str2;
+    myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
+    myfile <<  str3;
+    myfile.close();
+   }
+   else{
+	time (&rawtime);
+	timeinfo = localtime (&rawtime);
+	char* time = asctime(timeinfo);
+    	myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
+    	myfile <<  "No packet send at: " + std::string(time);
+    	myfile.close();
    }
     
 
-    delay(4000);
+    delay(1000);
  
  	// Send message2 broadcast and print the result
-    e = sx1272.sendPacketTimeoutACKRetries(0, message2);
-    printf("Packet sent, state %d\n",e);
+    //e = sx1272.sendPacketTimeoutACKRetries(0, message2);
+   // printf("Packet sent, state %d\n",e);
     
-    delay(4000);
+    //delay(4000);
+	
+	
 }
+
+void runSFTimer ( int seconds, string sf_value )
+{
+   clock_t endwait;
+   endwait = clock () + seconds * CLOCKS_PER_SEC ;
+   while (clock() < endwait)
+   {
+      loop(sf_value);
+   }
+   //return 0;
+   cout << sf_value << " tests done";
+}
+
 
 int main (){
 	setup();
-	while(1){
-		loop();
+	
+//	sx1272.setBW(BW_250);
+//	sx1272.setCR(CR_7);
+	sx1272.setSF(SF_7);
+
+	int i = checkIfOnline();
+	while (i != 0){
+		i = checkIfOnline();
 	}
+	if(i == 0){
+	runSFTimer(5, "SF_7");
+	sendNewSFValue("SF_8");
+	
+
+	sx1272.setSF(SF_8);
+	runSFTimer(10, "SF_8");
+	sendNewSFValue("SF_9");
+
+	sx1272.setSF(SF_9);
+        runSFTimer(10, "SF_9");
+	sendNewSFValue("SF_10");
+	
+	sx1272.setSF(SF_10);
+        runSFTimer(10, "SF_10");
+	sendNewSFValue("SF_11");
+	
+	sx1272.setSF(SF_11);
+        runSFTimer(10, "SF_11");
+	sendNewSFValue("SF_12");
+
+	sx1272.setSF(SF_12);
+        runSFTimer(10, "SF_12");
+
+	//sx1272.setSF(SF_12);
+        //runSFTimer(300, "SF_12");
+
+	printf("SF test done");
 	return (0);
+	}
 }
