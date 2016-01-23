@@ -83,12 +83,11 @@ void setup()
   
 }
 
+// Function for getting the send SF value, and change it to the correct one.
 void checkMessage(string sf_value){
 const char* value = sf_value.c_str();
-//printf(value);
 
-if(strcmp(value, "SF_6") == 0){
-printf("To 6!");  
+if(strcmp(value, "SF_6") == 0){ 
 sx1272.setSF(SF_6);
 }
 
@@ -113,7 +112,6 @@ sx1272.setSF(SF_11);
 }
 
 if(strcmp(value, "SF_12") == 0){
-printf("To 12!");
 sx1272.setSF(SF_12);
 }
 }
@@ -132,16 +130,18 @@ void loop(void)
 	{
 		my_packet[i] = (char)sx1272.packet_received.data[i];
 	}
+
 	//Writing message, packet counter and received timestamp to file.
-	
     string message1 = "Message: ";
     string message2 (my_packet);
     string Received_message = message1 = message2;
 	
+	//Getting time
     time (&rawtime);
     timeinfo = localtime (&rawtime); 
     char* time = asctime(timeinfo);
 	
+	//Writing to file
     std::string str1 = "Packet: " + std::to_string(packetCounter) + " ";
     std::string str2 = std::string(time);
     std::string str3 = str1 + str2;
@@ -152,6 +152,7 @@ void loop(void)
 	myfile <<  endl;
     myfile.close();
 
+	// Check the SF value
    checkMessage(message2);
   }
   else {
@@ -167,17 +168,10 @@ void loop(void)
 
 int main (){
 	setup();
+	//Set first value possible
 	sx1272.setSF(SF_7);
-//	sx1272.setBW(BW_250);
-//	sx1272.setCR(CR_7);
-//	sx1272.setSF(SF_9);
-	//clock_t endwait;
-	//endwait = clock() + 300 * CLOCKS_PER_SEC;
-	//while (clock() < endwait)
-	//{
 	while(true){
 		loop();
 	}
-	//}
 	return (0);
 }

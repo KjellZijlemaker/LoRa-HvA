@@ -81,6 +81,7 @@ void setup()
   delay(1000);
 }
 
+//Check if the receiver is online before logging
 int checkIfOnline(){
 	e = sx1272.sendPacketTimeoutACK(8, message1);
 	 if(e == 0){
@@ -92,6 +93,7 @@ int checkIfOnline(){
 	}
 }
 
+// Sending new SF value for receiver
 void sendNewSFValue(string sf_value){
    char messageToSend[250];
    strcpy(messageToSend, sf_value.c_str());
@@ -103,18 +105,19 @@ void loop(string sf_value)
    char messageToSend[250];
    strcpy(messageToSend, sf_value.c_str());
 
-    // Send message1 and print the result
+    // Send packet and print the result
     e = sx1272.sendPacketTimeoutACK(8, messageToSend);
-//    int f = sx1272.getMode();
     printf("Packet sent, state %d\n",e);
     
    if(e == 0){
-	//printf("Mode is: " + sx1272._mode);
-	packetCounter++; 
+	packetCounter++; //Counter for packet total
+
+	//Creating timer
 	time (&rawtime);
 	timeinfo = localtime (&rawtime);
 	char* time = asctime(timeinfo);
 	
+	// Making timestamp to txt file
     std::string str1 = "Packet: " + std::to_string(packetCounter) + " SF value: " + sf_value + "\n";
     std::string str2 = std::string(time) + "\n";
     std::string str3 = str1 + str2;
@@ -133,16 +136,9 @@ void loop(string sf_value)
     
 
     delay(1000);
- 
- 	// Send message2 broadcast and print the result
-    //e = sx1272.sendPacketTimeoutACKRetries(0, message2);
-   // printf("Packet sent, state %d\n",e);
-    
-    //delay(4000);
-	
-	
 }
 
+// Timer for looping through the SF values
 void runSFTimer ( int seconds, string sf_value )
 {
    clock_t endwait;
@@ -158,9 +154,6 @@ void runSFTimer ( int seconds, string sf_value )
 
 int main (){
 	setup();
-	
-//	sx1272.setBW(BW_250);
-//	sx1272.setCR(CR_7);
 	sx1272.setSF(SF_7);
 
 	int i = checkIfOnline();
@@ -171,7 +164,6 @@ int main (){
 	runSFTimer(5, "SF_7");
 	sendNewSFValue("SF_8");
 	
-
 	sx1272.setSF(SF_8);
 	runSFTimer(10, "SF_8");
 	sendNewSFValue("SF_9");
