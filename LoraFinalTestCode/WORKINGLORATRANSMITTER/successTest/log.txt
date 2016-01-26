@@ -1,0 +1,180 @@
+Packet: 0 SF value: SF_7
+Tue Jan 26 21:33:10 2016
+ACK from packet: 0 received at: Tue Jan 26 21:33:14 2016
+
+Packet: 1 SF value: SF_7
+Tue Jan 26 21:33:15 2016
+ACK from packet: 1 received at: Tue Jan 26 21:33:19 2016
+
+Packet: 2 SF value: SF_7
+Tue Jan 26 21:33:20 2016
+ACK from packet: 2 received at: Tue Jan 26 21:33:24 2016
+
+Packet: 3 SF value: SF_8
+Tue Jan 26 21:33:29 2016
+ACK from packet: 3 received at: Tue Jan 26 21:33:33 2016
+
+Packet: 4 SF value: SF_8
+Tue Jan 26 21:33:34 2016
+ACK from packet: 4 received at: Tue Jan 26 21:33:38 2016
+
+Packet: 5 SF value: SF_8
+Tue Jan 26 21:33:39 2016
+ACK from packet: 5 received at: Tue Jan 26 21:33:43 2016
+
+Packet: 6 SF value: SF_8
+Tue Jan 26 21:33:44 2016
+ACK from packet: 6 received at: Tue Jan 26 21:33:48 2016
+
+Packet: 7 SF value: SF_8
+Tue Jan 26 21:33:49 2016
+ACK from packet: 7 received at: Tue Jan 26 21:33:53 2016
+
+Packet: 8 SF value: SF_9
+Tue Jan 26 21:33:58 2016
+ACK from packet: 8 received at: Tue Jan 26 21:34:00 2016
+
+Packet: 9 SF value: SF_9
+Tue Jan 26 21:34:01 2016
+ACK from packet: 9 received at: Tue Jan 26 21:34:03 2016
+
+Packet: 10 SF value: SF_9
+Tue Jan 26 21:34:04 2016
+ACK from packet: 10 received at: Tue Jan 26 21:34:06 2016
+
+Packet: 11 SF value: SF_9
+Tue Jan 26 21:34:07 2016
+ACK from packet: 11 received at: Tue Jan 26 21:34:09 2016
+
+Packet: 12 SF value: SF_9
+Tue Jan 26 21:34:10 2016
+ACK from packet: 12 received at: Tue Jan 26 21:34:12 2016
+
+Packet: 13 SF value: SF_9
+Tue Jan 26 21:34:13 2016
+ACK from packet: 13 received at: Tue Jan 26 21:34:15 2016
+
+Packet: 14 SF value: SF_9
+Tue Jan 26 21:34:16 2016
+ACK from packet: 14 received at: Tue Jan 26 21:34:18 2016
+
+Packet: 15 SF value: SF_9
+Tue Jan 26 21:34:19 2016
+ACK from packet: 15 received at: Tue Jan 26 21:34:21 2016
+
+Packet: 16 SF value: SF_9
+Tue Jan 26 21:34:22 2016
+ACK from packet: 16 received at: Tue Jan 26 21:34:24 2016
+
+Packet: 17 SF value: SF_9
+Tue Jan 26 21:34:25 2016
+ACK from packet: 17 received at: Tue Jan 26 21:34:27 2016
+
+Packet: 18 SF value: SF_10
+Tue Jan 26 21:34:30 2016
+ACK from packet: 18 received at: Tue Jan 26 21:34:33 2016
+
+Packet: 19 SF value: SF_10
+Tue Jan 26 21:34:34 2016
+ACK from packet: 19 received at: Tue Jan 26 21:34:36 2016
+
+Packet: 20 SF value: SF_10
+Tue Jan 26 21:34:37 2016
+ACK from packet: 20 received at: Tue Jan 26 21:34:39 2016
+
+Packet: 21 SF value: SF_10
+Tue Jan 26 21:34:40 2016
+ACK from packet: 21 received at: Tue Jan 26 21:34:42 2016
+
+Packet: 22 SF value: SF_10
+Tue Jan 26 21:34:43 2016
+ACK from packet: 22 received at: Tue Jan 26 21:34:45 2016
+
+Packet: 23 SF value: SF_10
+Tue Jan 26 21:34:46 2016
+ACK from packet: 23 received at: Tue Jan 26 21:34:48 2016
+
+Packet: 24 SF value: SF_10
+Tue Jan 26 21:34:49 2016
+ACK from packet: 24 received at: Tue Jan 26 21:34:51 2016
+
+Packet: 25 SF value: SF_10
+Tue Jan 26 21:34:52 2016
+ACK from packet: 25 received at: Tue Jan 26 21:34:54 2016
+
+Packet: 26 SF value: SF_10
+Tue Jan 26 21:34:55 2016
+ACK from packet: 26 received at: Tue Jan 26 21:34:57 2016
+
+Packet: 27 SF value: SF_10
+Tue Jan 26 21:34:58 2016
+ACK from packet: 27 received at: Tue Jan 26 21:35:01 2016
+
+Packet: 28 SF value: SF_11
+Tue Jan 26 21:35:04 2016
+ACK from packet: 28 received at: Tue Jan 26 21:35:06 2016
+
+Packet: 29 SF value: SF_11
+Tue Jan 26 21:35:07 2016
+ACK from packet: 29 received at: Tue Jan 26 21:35:09 2016
+
+Packet: 30 SF value: SF_11
+Tue Jan 26 21:35:10 2016
+ACK from packet: 30 received at: Tue Jan 26 21:35:12 2016
+
+Packet: 31 SF value: SF_11
+Tue Jan 26 21:35:13 2016
+ACK from packet: 31 received at: Tue Jan 26 21:35:15 2016
+
+Packet: 32 SF value: SF_11
+Tue Jan 26 21:35:16 2016
+ACK from packet: 32 received at: Tue Jan 26 21:35:19 2016
+
+Packet: 33 SF value: SF_11
+Tue Jan 26 21:35:20 2016
+ACK from packet: 33 received at: Tue Jan 26 21:35:22 2016
+
+Packet: 34 SF value: SF_11
+Tue Jan 26 21:35:23 2016
+ACK from packet: 34 received at: Tue Jan 26 21:35:25 2016
+
+Packet: 35 SF value: SF_11
+Tue Jan 26 21:35:26 2016
+ACK from packet: 35 received at: Tue Jan 26 21:35:28 2016
+
+Packet: 36 SF value: SF_11
+Tue Jan 26 21:35:29 2016
+ACK from packet: 36 received at: Tue Jan 26 21:35:31 2016
+
+Packet: 37 SF value: SF_12
+Tue Jan 26 21:35:34 2016
+ACK from packet: 37 received at: Tue Jan 26 21:35:37 2016
+
+Packet: 38 SF value: SF_12
+Tue Jan 26 21:35:38 2016
+ACK from packet: 38 received at: Tue Jan 26 21:35:40 2016
+
+Packet: 39 SF value: SF_12
+Tue Jan 26 21:35:41 2016
+ACK from packet: 39 received at: Tue Jan 26 21:35:44 2016
+
+Packet: 40 SF value: SF_12
+Tue Jan 26 21:35:45 2016
+ACK from packet: 40 received at: Tue Jan 26 21:35:47 2016
+
+Packet: 41 SF value: SF_12
+Tue Jan 26 21:35:48 2016
+ACK from packet: 41 received at: Tue Jan 26 21:35:50 2016
+
+Packet: 42 SF value: SF_12
+Tue Jan 26 21:35:51 2016
+ACK from packet: 42 received at: Tue Jan 26 21:35:54 2016
+
+Packet: 43 SF value: SF_12
+Tue Jan 26 21:35:55 2016
+ACK from packet: 43 received at: Tue Jan 26 21:35:57 2016
+
+Packet: 44 SF value: SF_12
+Tue Jan 26 21:35:58 2016
+ACK from packet: 44 received at: Tue Jan 26 21:36:00 2016
+
