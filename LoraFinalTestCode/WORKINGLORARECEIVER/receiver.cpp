@@ -183,9 +183,9 @@ void loop(void)
 int main (){
 	setup();
 	//Set first value possible
-	sx1272.setSF(SF_7);
+	sx1272.setSF(SF_6);
 	while(true){
 		loop();
 	}
-	return (0);
+	return (0);	
 }
