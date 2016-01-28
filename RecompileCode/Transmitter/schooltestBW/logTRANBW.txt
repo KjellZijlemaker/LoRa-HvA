@@ -1,0 +1,1584 @@
+Packet: 0 BW value: BW_125
+Wed Jan 27 17:03:29 2016
+ACK from packet: 0 send at: Wed Jan 27 17:03:31 2016
+
+Packet: 1 BW value: BW_125
+Wed Jan 27 17:03:32 2016
+ACK from packet: 1 send at: Wed Jan 27 17:03:34 2016
+
+Packet: 2 BW value: BW_125
+Wed Jan 27 17:03:35 2016
+ACK from packet: 2 send at: Wed Jan 27 17:03:38 2016
+
+Packet: 3 BW value: BW_125
+Wed Jan 27 17:03:39 2016
+ACK from packet: 3 send at: Wed Jan 27 17:03:41 2016
+
+Packet: 4 BW value: BW_125
+Wed Jan 27 17:03:42 2016
+ACK from packet: 4 send at: Wed Jan 27 17:03:44 2016
+
+Packet: 5 BW value: BW_125
+Wed Jan 27 17:03:45 2016
+ACK from packet: 5 send at: Wed Jan 27 17:03:48 2016
+
+Packet: 6 BW value: BW_125
+Wed Jan 27 17:03:49 2016
+ACK from packet: 6 send at: Wed Jan 27 17:03:51 2016
+
+Packet: 7 BW value: BW_125
+Wed Jan 27 17:03:52 2016
+ACK from packet: 7 send at: Wed Jan 27 17:03:54 2016
+
+Packet: 8 BW value: BW_125
+Wed Jan 27 17:03:55 2016
+ACK from packet: 8 send at: Wed Jan 27 17:03:58 2016
+
+Packet: 9 BW value: BW_125
+Wed Jan 27 17:03:59 2016
+ACK from packet: 9 send at: Wed Jan 27 17:04:01 2016
+
+Packet: 10 BW value: BW_125
+Wed Jan 27 17:04:02 2016
+ACK from packet: 10 send at: Wed Jan 27 17:04:04 2016
+
+Packet: 11 BW value: BW_125
+Wed Jan 27 17:04:05 2016
+ACK from packet: 11 send at: Wed Jan 27 17:04:08 2016
+
+Packet: 12 BW value: BW_125
+Wed Jan 27 17:04:09 2016
+ACK from packet: 12 send at: Wed Jan 27 17:04:11 2016
+
+Packet: 13 BW value: BW_125
+Wed Jan 27 17:04:12 2016
+ACK from packet: 13 send at: Wed Jan 27 17:04:15 2016
+
+Packet: 14 BW value: BW_125
+Wed Jan 27 17:04:16 2016
+ACK from packet: 14 send at: Wed Jan 27 17:04:18 2016
+
+Packet: 15 BW value: BW_125
+Wed Jan 27 17:04:19 2016
+ACK from packet: 15 send at: Wed Jan 27 17:04:21 2016
+
+Packet: 16 BW value: BW_125
+Wed Jan 27 17:04:22 2016
+ACK from packet: 16 send at: Wed Jan 27 17:04:25 2016
+
+Packet: 17 BW value: BW_125
+Wed Jan 27 17:04:26 2016
+ACK from packet: 17 send at: Wed Jan 27 17:04:28 2016
+
+Packet: 18 BW value: BW_125
+Wed Jan 27 17:04:29 2016
+ACK from packet: 18 send at: Wed Jan 27 17:04:31 2016
+
+Packet: 19 BW value: BW_125
+Wed Jan 27 17:04:32 2016
+ACK from packet: 19 send at: Wed Jan 27 17:04:35 2016
+
+Packet: 20 BW value: BW_125
+Wed Jan 27 17:04:36 2016
+ACK from packet: 20 send at: Wed Jan 27 17:04:38 2016
+
+Packet: 21 BW value: BW_125
+Wed Jan 27 17:04:39 2016
+ACK from packet: 21 send at: Wed Jan 27 17:04:41 2016
+
+Packet: 22 BW value: BW_125
+Wed Jan 27 17:04:42 2016
+ACK from packet: 22 send at: Wed Jan 27 17:04:45 2016
+
+Packet: 23 BW value: BW_125
+Wed Jan 27 17:04:46 2016
+ACK from packet: 23 send at: Wed Jan 27 17:04:48 2016
+
+Packet: 24 BW value: BW_125
+Wed Jan 27 17:04:49 2016
+ACK from packet: 24 send at: Wed Jan 27 17:04:51 2016
+
+Packet: 25 BW value: BW_125
+Wed Jan 27 17:04:52 2016
+ACK from packet: 25 send at: Wed Jan 27 17:04:55 2016
+
+Packet: 26 BW value: BW_125
+Wed Jan 27 17:04:56 2016
+ACK from packet: 26 send at: Wed Jan 27 17:04:58 2016
+
+Packet: 27 BW value: BW_125
+Wed Jan 27 17:04:59 2016
+ACK from packet: 27 send at: Wed Jan 27 17:05:01 2016
+
+Packet: 28 BW value: BW_125
+Wed Jan 27 17:05:02 2016
+ACK from packet: 28 send at: Wed Jan 27 17:05:05 2016
+
+Packet: 29 BW value: BW_125
+Wed Jan 27 17:05:06 2016
+ACK from packet: 29 send at: Wed Jan 27 17:05:08 2016
+
+Packet: 30 BW value: BW_125
+Wed Jan 27 17:05:09 2016
+ACK from packet: 30 send at: Wed Jan 27 17:05:11 2016
+
+Packet: 31 BW value: BW_125
+Wed Jan 27 17:05:12 2016
+ACK from packet: 31 send at: Wed Jan 27 17:05:15 2016
+
+Packet: 32 BW value: BW_125
+Wed Jan 27 17:05:16 2016
+ACK from packet: 32 send at: Wed Jan 27 17:05:18 2016
+
+Packet: 33 BW value: BW_125
+Wed Jan 27 17:05:19 2016
+ACK from packet: 33 send at: Wed Jan 27 17:05:22 2016
+
+Packet: 34 BW value: BW_125
+Wed Jan 27 17:05:23 2016
+ACK from packet: 34 send at: Wed Jan 27 17:05:25 2016
+
+Packet: 35 BW value: BW_125
+Wed Jan 27 17:05:26 2016
+ACK from packet: 35 send at: Wed Jan 27 17:05:28 2016
+
+Packet: 36 BW value: BW_125
+Wed Jan 27 17:05:29 2016
+ACK from packet: 36 send at: Wed Jan 27 17:05:32 2016
+
+Packet: 37 BW value: BW_125
+Wed Jan 27 17:05:33 2016
+ACK from packet: 37 send at: Wed Jan 27 17:05:35 2016
+
+Packet: 38 BW value: BW_125
+Wed Jan 27 17:05:36 2016
+ACK from packet: 38 send at: Wed Jan 27 17:05:38 2016
+
+Packet: 39 BW value: BW_125
+Wed Jan 27 17:05:39 2016
+ACK from packet: 39 send at: Wed Jan 27 17:05:42 2016
+
+Packet: 40 BW value: BW_125
+Wed Jan 27 17:05:43 2016
+ACK from packet: 40 send at: Wed Jan 27 17:05:45 2016
+
+Packet: 41 BW value: BW_125
+Wed Jan 27 17:05:46 2016
+ACK from packet: 41 send at: Wed Jan 27 17:05:48 2016
+
+Packet: 42 BW value: BW_125
+Wed Jan 27 17:05:49 2016
+ACK from packet: 42 send at: Wed Jan 27 17:05:52 2016
+
+Packet: 43 BW value: BW_125
+Wed Jan 27 17:05:53 2016
+ACK from packet: 43 send at: Wed Jan 27 17:05:55 2016
+
+Packet: 44 BW value: BW_125
+Wed Jan 27 17:05:56 2016
+ACK from packet: 44 send at: Wed Jan 27 17:05:58 2016
+
+Packet: 45 BW value: BW_125
+Wed Jan 27 17:05:59 2016
+ACK from packet: 45 send at: Wed Jan 27 17:06:02 2016
+
+Packet: 46 BW value: BW_125
+Wed Jan 27 17:06:03 2016
+ACK from packet: 46 send at: Wed Jan 27 17:06:05 2016
+
+Packet: 47 BW value: BW_125
+Wed Jan 27 17:06:06 2016
+ACK from packet: 47 send at: Wed Jan 27 17:06:08 2016
+
+Packet: 48 BW value: BW_125
+Wed Jan 27 17:06:09 2016
+ACK from packet: 48 send at: Wed Jan 27 17:06:12 2016
+
+Packet: 49 BW value: BW_125
+Wed Jan 27 17:06:13 2016
+ACK from packet: 49 send at: Wed Jan 27 17:06:15 2016
+
+Packet: 50 BW value: BW_125
+Wed Jan 27 17:06:16 2016
+ACK from packet: 50 send at: Wed Jan 27 17:06:18 2016
+
+Packet: 51 BW value: BW_125
+Wed Jan 27 17:06:19 2016
+ACK from packet: 51 send at: Wed Jan 27 17:06:22 2016
+
+Packet: 52 BW value: BW_125
+Wed Jan 27 17:06:23 2016
+ACK from packet: 52 send at: Wed Jan 27 17:06:25 2016
+
+Packet: 53 BW value: BW_125
+Wed Jan 27 17:06:26 2016
+ACK from packet: 53 send at: Wed Jan 27 17:06:29 2016
+
+Packet: 54 BW value: BW_125
+Wed Jan 27 17:06:30 2016
+ACK from packet: 54 send at: Wed Jan 27 17:06:32 2016
+
+Packet: 55 BW value: BW_125
+Wed Jan 27 17:06:33 2016
+ACK from packet: 55 send at: Wed Jan 27 17:06:35 2016
+
+Packet: 56 BW value: BW_125
+Wed Jan 27 17:06:36 2016
+ACK from packet: 56 send at: Wed Jan 27 17:06:39 2016
+
+Packet: 57 BW value: BW_125
+Wed Jan 27 17:06:40 2016
+ACK from packet: 57 send at: Wed Jan 27 17:06:42 2016
+
+Packet: 58 BW value: BW_125
+Wed Jan 27 17:06:43 2016
+ACK from packet: 58 send at: Wed Jan 27 17:06:45 2016
+
+Packet: 59 BW value: BW_125
+Wed Jan 27 17:06:46 2016
+ACK from packet: 59 send at: Wed Jan 27 17:06:49 2016
+
+Packet: 60 BW value: BW_125
+Wed Jan 27 17:06:50 2016
+ACK from packet: 60 send at: Wed Jan 27 17:06:52 2016
+
+Packet: 61 BW value: BW_125
+Wed Jan 27 17:06:53 2016
+ACK from packet: 61 send at: Wed Jan 27 17:06:55 2016
+
+Packet: 62 BW value: BW_125
+Wed Jan 27 17:06:56 2016
+ACK from packet: 62 send at: Wed Jan 27 17:06:59 2016
+
+Packet: 63 BW value: BW_125
+Wed Jan 27 17:07:00 2016
+ACK from packet: 63 send at: Wed Jan 27 17:07:02 2016
+
+Packet: 64 BW value: BW_125
+Wed Jan 27 17:07:03 2016
+ACK from packet: 64 send at: Wed Jan 27 17:07:05 2016
+
+Packet: 65 BW value: BW_125
+Wed Jan 27 17:07:06 2016
+ACK from packet: 65 send at: Wed Jan 27 17:07:09 2016
+
+Packet: 66 BW value: BW_125
+Wed Jan 27 17:07:10 2016
+ACK from packet: 66 send at: Wed Jan 27 17:07:12 2016
+
+Packet: 67 BW value: BW_125
+Wed Jan 27 17:07:13 2016
+ACK from packet: 67 send at: Wed Jan 27 17:07:15 2016
+
+Packet: 68 BW value: BW_125
+Wed Jan 27 17:07:16 2016
+ACK from packet: 68 send at: Wed Jan 27 17:07:19 2016
+
+Packet: 69 BW value: BW_125
+Wed Jan 27 17:07:20 2016
+ACK from packet: 69 send at: Wed Jan 27 17:07:22 2016
+
+Packet: 70 BW value: BW_125
+Wed Jan 27 17:07:23 2016
+ACK from packet: 70 send at: Wed Jan 27 17:07:26 2016
+
+Packet: 71 BW value: BW_125
+Wed Jan 27 17:07:27 2016
+ACK from packet: 71 send at: Wed Jan 27 17:07:29 2016
+
+Packet: 72 BW value: BW_125
+Wed Jan 27 17:07:30 2016
+ACK from packet: 72 send at: Wed Jan 27 17:07:32 2016
+
+Packet: 73 BW value: BW_125
+Wed Jan 27 17:07:33 2016
+ACK from packet: 73 send at: Wed Jan 27 17:07:36 2016
+
+Packet: 74 BW value: BW_125
+Wed Jan 27 17:07:37 2016
+ACK from packet: 74 send at: Wed Jan 27 17:07:39 2016
+
+Packet: 75 BW value: BW_125
+Wed Jan 27 17:07:40 2016
+ACK from packet: 75 send at: Wed Jan 27 17:07:42 2016
+
+Packet: 76 BW value: BW_125
+Wed Jan 27 17:07:43 2016
+ACK from packet: 76 send at: Wed Jan 27 17:07:46 2016
+
+Packet: 77 BW value: BW_125
+Wed Jan 27 17:07:47 2016
+ACK from packet: 77 send at: Wed Jan 27 17:07:49 2016
+
+Packet: 78 BW value: BW_125
+Wed Jan 27 17:07:50 2016
+ACK from packet: 78 send at: Wed Jan 27 17:07:52 2016
+
+Packet: 79 BW value: BW_125
+Wed Jan 27 17:07:53 2016
+ACK from packet: 79 send at: Wed Jan 27 17:07:56 2016
+
+Packet: 80 BW value: BW_125
+Wed Jan 27 17:07:57 2016
+ACK from packet: 80 send at: Wed Jan 27 17:07:59 2016
+
+Packet: 81 BW value: BW_125
+Wed Jan 27 17:08:00 2016
+ACK from packet: 81 send at: Wed Jan 27 17:08:02 2016
+
+Packet: 82 BW value: BW_125
+Wed Jan 27 17:08:03 2016
+ACK from packet: 82 send at: Wed Jan 27 17:08:06 2016
+
+Packet: 83 BW value: BW_125
+Wed Jan 27 17:08:07 2016
+Packet: 84 BW value: BW_125
+Wed Jan 27 16:12:23 2016
+ACK from packet: 84 send at: Wed Jan 27 16:12:25 2016
+
+Packet: 85 BW value: BW_125
+Wed Jan 27 16:12:26 2016
+ACK from packet: 85 send at: Wed Jan 27 16:12:28 2016
+
+Packet: 86 BW value: BW_125
+Wed Jan 27 16:12:29 2016
+ACK from packet: 86 send at: Wed Jan 27 16:12:32 2016
+
+Packet: 87 BW value: BW_125
+Wed Jan 27 16:12:33 2016
+ACK from packet: 87 send at: Wed Jan 27 16:12:35 2016
+
+Packet: 88 BW value: BW_125
+Wed Jan 27 16:12:36 2016
+ACK from packet: 88 send at: Wed Jan 27 16:12:38 2016
+
+Packet: 89 BW value: BW_125
+Wed Jan 27 16:12:39 2016
+ACK from packet: 89 send at: Wed Jan 27 16:12:42 2016
+
+Packet: 90 BW value: BW_125
+Wed Jan 27 16:12:43 2016
+ACK from packet: 90 send at: Wed Jan 27 16:12:45 2016
+
+Packet: 91 BW value: BW_125
+Wed Jan 27 16:12:46 2016
+ACK from packet: 91 send at: Wed Jan 27 16:12:48 2016
+
+Packet: 92 BW value: BW_125
+Wed Jan 27 16:12:49 2016
+ACK from packet: 92 send at: Wed Jan 27 16:12:52 2016
+
+Packet: 93 BW value: BW_125
+Wed Jan 27 16:12:53 2016
+ACK from packet: 93 send at: Wed Jan 27 16:12:55 2016
+
+Packet: 94 BW value: BW_125
+Wed Jan 27 16:12:56 2016
+ACK from packet: 94 send at: Wed Jan 27 16:12:58 2016
+
+Packet: 95 BW value: BW_125
+Wed Jan 27 16:12:59 2016
+ACK from packet: 95 send at: Wed Jan 27 16:13:02 2016
+
+Packet: 96 BW value: BW_125
+Wed Jan 27 16:13:03 2016
+ACK from packet: 96 send at: Wed Jan 27 16:13:05 2016
+
+Packet: 97 BW value: BW_125
+Wed Jan 27 16:13:06 2016
+ACK from packet: 97 send at: Wed Jan 27 16:13:08 2016
+
+Packet: 98 BW value: BW_125
+Wed Jan 27 16:13:09 2016
+ACK from packet: 98 send at: Wed Jan 27 16:13:12 2016
+
+Packet: 99 BW value: BW_125
+Wed Jan 27 16:13:13 2016
+ACK from packet: 99 send at: Wed Jan 27 16:13:15 2016
+
+Packet: 100 BW value: BW_125
+Wed Jan 27 16:13:16 2016
+ACK from packet: 100 send at: Wed Jan 27 16:13:18 2016
+
+Packet: 101 BW value: BW_125
+Wed Jan 27 16:13:19 2016
+ACK from packet: 101 send at: Wed Jan 27 16:13:22 2016
+
+Packet: 102 BW value: BW_125
+Wed Jan 27 16:13:23 2016
+ACK from packet: 102 send at: Wed Jan 27 16:13:25 2016
+
+Packet: 103 BW value: BW_125
+Wed Jan 27 16:13:26 2016
+ACK from packet: 103 send at: Wed Jan 27 16:13:29 2016
+
+Packet: 104 BW value: BW_125
+Wed Jan 27 16:13:30 2016
+ACK from packet: 104 send at: Wed Jan 27 16:13:32 2016
+
+Packet: 105 BW value: BW_125
+Wed Jan 27 16:13:33 2016
+ACK from packet: 105 send at: Wed Jan 27 16:13:35 2016
+
+Packet: 106 BW value: BW_125
+Wed Jan 27 16:13:36 2016
+ACK from packet: 106 send at: Wed Jan 27 16:13:39 2016
+
+Packet: 107 BW value: BW_125
+Wed Jan 27 16:13:40 2016
+ACK from packet: 107 send at: Wed Jan 27 16:13:42 2016
+
+Packet: 108 BW value: BW_125
+Wed Jan 27 16:13:43 2016
+ACK from packet: 108 send at: Wed Jan 27 16:13:45 2016
+
+Packet: 109 BW value: BW_125
+Wed Jan 27 16:13:46 2016
+ACK from packet: 109 send at: Wed Jan 27 16:13:49 2016
+
+Packet: 110 BW value: BW_125
+Wed Jan 27 16:13:50 2016
+ACK from packet: 110 send at: Wed Jan 27 16:13:52 2016
+
+Packet: 111 BW value: BW_125
+Wed Jan 27 16:13:53 2016
+ACK from packet: 111 send at: Wed Jan 27 16:13:55 2016
+
+Packet: 112 BW value: BW_125
+Wed Jan 27 16:13:56 2016
+ACK from packet: 112 send at: Wed Jan 27 16:13:59 2016
+
+Packet: 113 BW value: BW_125
+Wed Jan 27 16:14:00 2016
+ACK from packet: 113 send at: Wed Jan 27 16:14:02 2016
+
+Packet: 114 BW value: BW_125
+Wed Jan 27 16:14:03 2016
+ACK from packet: 114 send at: Wed Jan 27 16:14:05 2016
+
+Packet: 115 BW value: BW_125
+Wed Jan 27 16:14:06 2016
+ACK from packet: 115 send at: Wed Jan 27 16:14:09 2016
+
+Packet: 116 BW value: BW_125
+Wed Jan 27 16:14:10 2016
+ACK from packet: 116 send at: Wed Jan 27 16:14:12 2016
+
+Packet: 117 BW value: BW_125
+Wed Jan 27 16:14:13 2016
+ACK from packet: 117 send at: Wed Jan 27 16:14:15 2016
+
+Packet: 118 BW value: BW_125
+Wed Jan 27 16:14:16 2016
+ACK from packet: 118 send at: Wed Jan 27 16:14:19 2016
+
+Packet: 119 BW value: BW_125
+Wed Jan 27 16:14:20 2016
+ACK from packet: 119 send at: Wed Jan 27 16:14:22 2016
+
+Packet: 120 BW value: BW_125
+Wed Jan 27 16:14:23 2016
+ACK from packet: 120 send at: Wed Jan 27 16:14:25 2016
+
+Packet: 121 BW value: BW_125
+Wed Jan 27 16:14:26 2016
+ACK from packet: 121 send at: Wed Jan 27 16:14:29 2016
+
+Packet: 122 BW value: BW_125
+Wed Jan 27 16:14:30 2016
+ACK from packet: 122 send at: Wed Jan 27 16:14:32 2016
+
+Packet: 123 BW value: BW_125
+Wed Jan 27 16:14:33 2016
+ACK from packet: 123 send at: Wed Jan 27 16:14:36 2016
+
+Packet: 124 BW value: BW_125
+Wed Jan 27 16:14:37 2016
+ACK from packet: 124 send at: Wed Jan 27 16:14:39 2016
+
+Packet: 125 BW value: BW_125
+Wed Jan 27 16:14:40 2016
+ACK from packet: 125 send at: Wed Jan 27 16:14:42 2016
+
+Packet: 126 BW value: BW_125
+Wed Jan 27 16:14:43 2016
+ACK from packet: 126 send at: Wed Jan 27 16:14:46 2016
+
+Packet: 127 BW value: BW_125
+Wed Jan 27 16:14:47 2016
+ACK from packet: 127 send at: Wed Jan 27 16:14:49 2016
+
+Packet: 128 BW value: BW_125
+Wed Jan 27 16:14:50 2016
+ACK from packet: 128 send at: Wed Jan 27 16:14:52 2016
+
+Packet: 129 BW value: BW_125
+Wed Jan 27 16:14:53 2016
+ACK from packet: 129 send at: Wed Jan 27 16:14:56 2016
+
+Packet: 130 BW value: BW_125
+Wed Jan 27 16:14:57 2016
+ACK from packet: 130 send at: Wed Jan 27 16:14:59 2016
+
+Packet: 131 BW value: BW_125
+Wed Jan 27 16:15:00 2016
+ACK from packet: 131 send at: Wed Jan 27 16:15:02 2016
+
+Packet: 132 BW value: BW_125
+Wed Jan 27 16:15:03 2016
+ACK from packet: 132 send at: Wed Jan 27 16:15:06 2016
+
+Packet: 133 BW value: BW_125
+Wed Jan 27 16:15:07 2016
+ACK from packet: 133 send at: Wed Jan 27 16:15:09 2016
+
+Packet: 134 BW value: BW_125
+Wed Jan 27 16:15:10 2016
+ACK from packet: 134 send at: Wed Jan 27 16:15:12 2016
+
+Packet: 135 BW value: BW_250
+Wed Jan 27 16:15:16 2016
+ACK from packet: 135 send at: Wed Jan 27 16:15:18 2016
+
+Packet: 136 BW value: BW_250
+Wed Jan 27 16:15:19 2016
+ACK from packet: 136 send at: Wed Jan 27 16:15:21 2016
+
+Packet: 137 BW value: BW_250
+Wed Jan 27 16:15:22 2016
+ACK from packet: 137 send at: Wed Jan 27 16:15:25 2016
+
+Packet: 138 BW value: BW_250
+Wed Jan 27 16:15:26 2016
+ACK from packet: 138 send at: Wed Jan 27 16:15:28 2016
+
+Packet: 139 BW value: BW_250
+Wed Jan 27 16:15:29 2016
+ACK from packet: 139 send at: Wed Jan 27 16:15:32 2016
+
+Packet: 140 BW value: BW_250
+Wed Jan 27 16:15:33 2016
+ACK from packet: 140 send at: Wed Jan 27 16:15:35 2016
+
+Packet: 141 BW value: BW_250
+Wed Jan 27 16:15:36 2016
+ACK from packet: 141 send at: Wed Jan 27 16:15:38 2016
+
+Packet: 142 BW value: BW_250
+Wed Jan 27 16:15:39 2016
+ACK from packet: 142 send at: Wed Jan 27 16:15:42 2016
+
+Packet: 143 BW value: BW_250
+Wed Jan 27 16:15:43 2016
+ACK from packet: 143 send at: Wed Jan 27 16:15:45 2016
+
+Packet: 144 BW value: BW_250
+Wed Jan 27 16:15:46 2016
+ACK from packet: 144 send at: Wed Jan 27 16:15:48 2016
+
+Packet: 145 BW value: BW_250
+Wed Jan 27 16:15:49 2016
+ACK from packet: 145 send at: Wed Jan 27 16:15:52 2016
+
+Packet: 146 BW value: BW_250
+Wed Jan 27 16:15:53 2016
+ACK from packet: 146 send at: Wed Jan 27 16:15:55 2016
+
+Packet: 147 BW value: BW_250
+Wed Jan 27 16:15:56 2016
+ACK from packet: 147 send at: Wed Jan 27 16:15:58 2016
+
+Packet: 148 BW value: BW_250
+Wed Jan 27 16:15:59 2016
+ACK from packet: 148 send at: Wed Jan 27 16:16:02 2016
+
+Packet: 149 BW value: BW_250
+Wed Jan 27 16:16:03 2016
+ACK from packet: 149 send at: Wed Jan 27 16:16:05 2016
+
+Packet: 150 BW value: BW_250
+Wed Jan 27 16:16:06 2016
+ACK from packet: 150 send at: Wed Jan 27 16:16:08 2016
+
+Packet: 151 BW value: BW_250
+Wed Jan 27 16:16:09 2016
+ACK from packet: 151 send at: Wed Jan 27 16:16:12 2016
+
+Packet: 152 BW value: BW_250
+Wed Jan 27 16:16:13 2016
+ACK from packet: 152 send at: Wed Jan 27 16:16:15 2016
+
+Packet: 153 BW value: BW_250
+Wed Jan 27 16:16:16 2016
+ACK from packet: 153 send at: Wed Jan 27 16:16:18 2016
+
+Packet: 154 BW value: BW_250
+Wed Jan 27 16:16:19 2016
+ACK from packet: 154 send at: Wed Jan 27 16:16:22 2016
+
+Packet: 155 BW value: BW_250
+Wed Jan 27 16:16:23 2016
+ACK from packet: 155 send at: Wed Jan 27 16:16:25 2016
+
+Packet: 156 BW value: BW_250
+Wed Jan 27 16:16:26 2016
+ACK from packet: 156 send at: Wed Jan 27 16:16:28 2016
+
+Packet: 157 BW value: BW_250
+Wed Jan 27 16:16:29 2016
+ACK from packet: 157 send at: Wed Jan 27 16:16:32 2016
+
+Packet: 158 BW value: BW_250
+Wed Jan 27 16:16:33 2016
+ACK from packet: 158 send at: Wed Jan 27 16:16:35 2016
+
+Packet: 159 BW value: BW_250
+Wed Jan 27 16:16:36 2016
+ACK from packet: 159 send at: Wed Jan 27 16:16:39 2016
+
+Packet: 160 BW value: BW_250
+Wed Jan 27 16:16:40 2016
+ACK from packet: 160 send at: Wed Jan 27 16:16:42 2016
+
+Packet: 161 BW value: BW_250
+Wed Jan 27 16:16:43 2016
+ACK from packet: 161 send at: Wed Jan 27 16:16:45 2016
+
+Packet: 162 BW value: BW_250
+Wed Jan 27 16:16:46 2016
+ACK from packet: 162 send at: Wed Jan 27 16:16:49 2016
+
+Packet: 163 BW value: BW_250
+Wed Jan 27 16:16:50 2016
+ACK from packet: 163 send at: Wed Jan 27 16:16:52 2016
+
+Packet: 164 BW value: BW_250
+Wed Jan 27 16:16:53 2016
+ACK from packet: 164 send at: Wed Jan 27 16:16:55 2016
+
+Packet: 165 BW value: BW_250
+Wed Jan 27 16:16:56 2016
+ACK from packet: 165 send at: Wed Jan 27 16:16:59 2016
+
+Packet: 166 BW value: BW_250
+Wed Jan 27 16:17:00 2016
+ACK from packet: 166 send at: Wed Jan 27 16:17:02 2016
+
+Packet: 167 BW value: BW_250
+Wed Jan 27 16:17:03 2016
+ACK from packet: 167 send at: Wed Jan 27 16:17:05 2016
+
+Packet: 168 BW value: BW_250
+Wed Jan 27 16:17:06 2016
+ACK from packet: 168 send at: Wed Jan 27 16:17:09 2016
+
+Packet: 169 BW value: BW_250
+Wed Jan 27 16:17:10 2016
+ACK from packet: 169 send at: Wed Jan 27 16:17:12 2016
+
+Packet: 170 BW value: BW_250
+Wed Jan 27 16:17:13 2016
+ACK from packet: 170 send at: Wed Jan 27 16:17:15 2016
+
+Packet: 171 BW value: BW_250
+Wed Jan 27 16:17:16 2016
+ACK from packet: 171 send at: Wed Jan 27 16:17:19 2016
+
+Packet: 172 BW value: BW_250
+Wed Jan 27 16:17:20 2016
+ACK from packet: 172 send at: Wed Jan 27 16:17:22 2016
+
+Packet: 173 BW value: BW_250
+Wed Jan 27 16:17:23 2016
+ACK from packet: 173 send at: Wed Jan 27 16:17:25 2016
+
+Packet: 174 BW value: BW_250
+Wed Jan 27 16:17:26 2016
+ACK from packet: 174 send at: Wed Jan 27 16:17:29 2016
+
+Packet: 175 BW value: BW_250
+Wed Jan 27 16:17:30 2016
+ACK from packet: 175 send at: Wed Jan 27 16:17:32 2016
+
+Packet: 176 BW value: BW_250
+Wed Jan 27 16:17:33 2016
+ACK from packet: 176 send at: Wed Jan 27 16:17:35 2016
+
+Packet: 177 BW value: BW_250
+Wed Jan 27 16:17:36 2016
+ACK from packet: 177 send at: Wed Jan 27 16:17:39 2016
+
+Packet: 178 BW value: BW_250
+Wed Jan 27 16:17:40 2016
+ACK from packet: 178 send at: Wed Jan 27 16:17:42 2016
+
+Packet: 179 BW value: BW_250
+Wed Jan 27 16:17:43 2016
+ACK from packet: 179 send at: Wed Jan 27 16:17:46 2016
+
+Packet: 180 BW value: BW_250
+Wed Jan 27 16:17:47 2016
+ACK from packet: 180 send at: Wed Jan 27 16:17:49 2016
+
+Packet: 181 BW value: BW_250
+Wed Jan 27 16:17:50 2016
+ACK from packet: 181 send at: Wed Jan 27 16:17:52 2016
+
+Packet: 182 BW value: BW_250
+Wed Jan 27 16:17:53 2016
+ACK from packet: 182 send at: Wed Jan 27 16:17:56 2016
+
+Packet: 183 BW value: BW_250
+Wed Jan 27 16:17:57 2016
+ACK from packet: 183 send at: Wed Jan 27 16:17:59 2016
+
+Packet: 184 BW value: BW_250
+Wed Jan 27 16:18:00 2016
+ACK from packet: 184 send at: Wed Jan 27 16:18:02 2016
+
+Packet: 185 BW value: BW_250
+Wed Jan 27 16:18:03 2016
+ACK from packet: 185 send at: Wed Jan 27 16:18:06 2016
+
+Packet: 186 BW value: BW_250
+Wed Jan 27 16:18:07 2016
+ACK from packet: 186 send at: Wed Jan 27 16:18:09 2016
+
+Packet: 187 BW value: BW_250
+Wed Jan 27 16:18:10 2016
+ACK from packet: 187 send at: Wed Jan 27 16:18:12 2016
+
+Packet: 188 BW value: BW_250
+Wed Jan 27 16:18:13 2016
+ACK from packet: 188 send at: Wed Jan 27 16:18:16 2016
+
+Packet: 189 BW value: BW_250
+Wed Jan 27 16:18:17 2016
+ACK from packet: 189 send at: Wed Jan 27 16:18:19 2016
+
+Packet: 190 BW value: BW_250
+Wed Jan 27 16:18:20 2016
+ACK from packet: 190 send at: Wed Jan 27 16:18:22 2016
+
+Packet: 191 BW value: BW_250
+Wed Jan 27 16:18:23 2016
+ACK from packet: 191 send at: Wed Jan 27 16:18:26 2016
+
+Packet: 192 BW value: BW_250
+Wed Jan 27 16:18:27 2016
+ACK from packet: 192 send at: Wed Jan 27 16:18:29 2016
+
+Packet: 193 BW value: BW_250
+Wed Jan 27 16:18:30 2016
+ACK from packet: 193 send at: Wed Jan 27 16:18:32 2016
+
+Packet: 194 BW value: BW_250
+Wed Jan 27 16:18:33 2016
+ACK from packet: 194 send at: Wed Jan 27 16:18:36 2016
+
+Packet: 195 BW value: BW_250
+Wed Jan 27 16:18:37 2016
+ACK from packet: 195 send at: Wed Jan 27 16:18:39 2016
+
+Packet: 196 BW value: BW_250
+Wed Jan 27 16:18:40 2016
+ACK from packet: 196 send at: Wed Jan 27 16:18:43 2016
+
+Packet: 197 BW value: BW_250
+Wed Jan 27 16:18:44 2016
+ACK from packet: 197 send at: Wed Jan 27 16:18:46 2016
+
+Packet: 198 BW value: BW_250
+Wed Jan 27 16:18:47 2016
+ACK from packet: 198 send at: Wed Jan 27 16:18:49 2016
+
+Packet: 199 BW value: BW_250
+Wed Jan 27 16:18:50 2016
+ACK from packet: 199 send at: Wed Jan 27 16:18:53 2016
+
+Packet: 200 BW value: BW_250
+Wed Jan 27 16:18:54 2016
+ACK from packet: 200 send at: Wed Jan 27 16:18:56 2016
+
+Packet: 201 BW value: BW_250
+Wed Jan 27 16:18:57 2016
+ACK from packet: 201 send at: Wed Jan 27 16:18:59 2016
+
+Packet: 202 BW value: BW_250
+Wed Jan 27 16:19:00 2016
+ACK from packet: 202 send at: Wed Jan 27 16:19:03 2016
+
+Packet: 203 BW value: BW_250
+Wed Jan 27 16:19:04 2016
+ACK from packet: 203 send at: Wed Jan 27 16:19:06 2016
+
+Packet: 204 BW value: BW_250
+Wed Jan 27 16:19:07 2016
+ACK from packet: 204 send at: Wed Jan 27 16:19:09 2016
+
+Packet: 205 BW value: BW_250
+Wed Jan 27 16:19:10 2016
+ACK from packet: 205 send at: Wed Jan 27 16:19:13 2016
+
+Packet: 206 BW value: BW_250
+Wed Jan 27 16:19:14 2016
+ACK from packet: 206 send at: Wed Jan 27 16:19:16 2016
+
+Packet: 207 BW value: BW_250
+Wed Jan 27 16:19:17 2016
+ACK from packet: 207 send at: Wed Jan 27 16:19:19 2016
+
+Packet: 208 BW value: BW_250
+Wed Jan 27 16:19:20 2016
+ACK from packet: 208 send at: Wed Jan 27 16:19:23 2016
+
+Packet: 209 BW value: BW_250
+Wed Jan 27 16:19:24 2016
+ACK from packet: 209 send at: Wed Jan 27 16:19:26 2016
+
+Packet: 210 BW value: BW_250
+Wed Jan 27 16:19:27 2016
+ACK from packet: 210 send at: Wed Jan 27 16:19:29 2016
+
+Packet: 211 BW value: BW_250
+Wed Jan 27 16:19:30 2016
+ACK from packet: 211 send at: Wed Jan 27 16:19:33 2016
+
+Packet: 212 BW value: BW_250
+Wed Jan 27 16:19:34 2016
+ACK from packet: 212 send at: Wed Jan 27 16:19:36 2016
+
+Packet: 213 BW value: BW_250
+Wed Jan 27 16:19:37 2016
+ACK from packet: 213 send at: Wed Jan 27 16:19:39 2016
+
+Packet: 214 BW value: BW_250
+Wed Jan 27 16:19:40 2016
+ACK from packet: 214 send at: Wed Jan 27 16:19:43 2016
+
+Packet: 215 BW value: BW_250
+Wed Jan 27 16:19:44 2016
+ACK from packet: 215 send at: Wed Jan 27 16:19:46 2016
+
+Packet: 216 BW value: BW_250
+Wed Jan 27 16:19:47 2016
+ACK from packet: 216 send at: Wed Jan 27 16:19:50 2016
+
+Packet: 217 BW value: BW_250
+Wed Jan 27 16:19:51 2016
+ACK from packet: 217 send at: Wed Jan 27 16:19:53 2016
+
+Packet: 218 BW value: BW_250
+Wed Jan 27 16:19:54 2016
+ACK from packet: 218 send at: Wed Jan 27 16:19:56 2016
+
+Packet: 219 BW value: BW_250
+Wed Jan 27 16:19:57 2016
+ACK from packet: 219 send at: Wed Jan 27 16:20:00 2016
+
+Packet: 220 BW value: BW_250
+Wed Jan 27 16:20:01 2016
+ACK from packet: 220 send at: Wed Jan 27 16:20:03 2016
+
+Packet: 221 BW value: BW_250
+Wed Jan 27 16:20:04 2016
+ACK from packet: 221 send at: Wed Jan 27 16:20:06 2016
+
+Packet: 222 BW value: BW_250
+Wed Jan 27 16:20:07 2016
+ACK from packet: 222 send at: Wed Jan 27 16:20:10 2016
+
+Packet: 223 BW value: BW_250
+Wed Jan 27 16:20:11 2016
+ACK from packet: 223 send at: Wed Jan 27 16:20:13 2016
+
+Packet: 224 BW value: BW_250
+Wed Jan 27 16:20:14 2016
+ACK from packet: 224 send at: Wed Jan 27 16:20:16 2016
+
+Packet: 225 BW value: BW_250
+Wed Jan 27 16:20:17 2016
+ACK from packet: 225 send at: Wed Jan 27 16:20:20 2016
+
+Packet: 226 BW value: BW_250
+Wed Jan 27 16:20:21 2016
+ACK from packet: 226 send at: Wed Jan 27 16:20:23 2016
+
+Packet: 227 BW value: BW_250
+Wed Jan 27 16:20:24 2016
+ACK from packet: 227 send at: Wed Jan 27 16:20:26 2016
+
+Packet: 228 BW value: BW_250
+Wed Jan 27 16:20:27 2016
+ACK from packet: 228 send at: Wed Jan 27 16:20:30 2016
+
+Packet: 229 BW value: BW_250
+Wed Jan 27 16:20:31 2016
+ACK from packet: 229 send at: Wed Jan 27 16:20:33 2016
+
+Packet: 230 BW value: BW_250
+Wed Jan 27 16:20:34 2016
+ACK from packet: 230 send at: Wed Jan 27 16:20:36 2016
+
+Packet: 231 BW value: BW_250
+Wed Jan 27 16:20:37 2016
+ACK from packet: 231 send at: Wed Jan 27 16:20:40 2016
+
+Packet: 232 BW value: BW_250
+Wed Jan 27 16:20:41 2016
+ACK from packet: 232 send at: Wed Jan 27 16:20:43 2016
+
+Packet: 233 BW value: BW_250
+Wed Jan 27 16:20:44 2016
+ACK from packet: 233 send at: Wed Jan 27 16:20:46 2016
+
+Packet: 234 BW value: BW_250
+Wed Jan 27 16:20:47 2016
+ACK from packet: 234 send at: Wed Jan 27 16:20:50 2016
+
+Packet: 235 BW value: BW_250
+Wed Jan 27 16:20:51 2016
+ACK from packet: 235 send at: Wed Jan 27 16:20:53 2016
+
+Packet: 236 BW value: BW_250
+Wed Jan 27 16:20:54 2016
+ACK from packet: 236 send at: Wed Jan 27 16:20:57 2016
+
+Packet: 237 BW value: BW_250
+Wed Jan 27 16:20:58 2016
+ACK from packet: 237 send at: Wed Jan 27 16:21:00 2016
+
+Packet: 238 BW value: BW_250
+Wed Jan 27 16:21:01 2016
+ACK from packet: 238 send at: Wed Jan 27 16:21:03 2016
+
+Packet: 239 BW value: BW_250
+Wed Jan 27 16:21:04 2016
+ACK from packet: 239 send at: Wed Jan 27 16:21:08 2016
+
+Packet: 240 BW value: BW_250
+Wed Jan 27 16:21:09 2016
+ACK from packet: 240 send at: Wed Jan 27 16:21:11 2016
+
+Packet: 241 BW value: BW_250
+Wed Jan 27 16:21:12 2016
+ACK from packet: 241 send at: Wed Jan 27 16:21:14 2016
+
+Packet: 242 BW value: BW_250
+Wed Jan 27 16:21:15 2016
+ACK from packet: 242 send at: Wed Jan 27 16:21:18 2016
+
+Packet: 243 BW value: BW_250
+Wed Jan 27 16:21:19 2016
+ACK from packet: 243 send at: Wed Jan 27 16:21:21 2016
+
+Packet: 244 BW value: BW_250
+Wed Jan 27 16:21:22 2016
+ACK from packet: 244 send at: Wed Jan 27 16:21:24 2016
+
+Packet: 245 BW value: BW_250
+Wed Jan 27 16:21:25 2016
+ACK from packet: 245 send at: Wed Jan 27 16:21:28 2016
+
+Packet: 246 BW value: BW_250
+Wed Jan 27 16:21:29 2016
+ACK from packet: 246 send at: Wed Jan 27 16:21:31 2016
+
+Packet: 247 BW value: BW_250
+Wed Jan 27 16:21:32 2016
+ACK from packet: 247 send at: Wed Jan 27 16:21:34 2016
+
+Packet: 248 BW value: BW_250
+Wed Jan 27 16:21:35 2016
+ACK from packet: 248 send at: Wed Jan 27 16:21:38 2016
+
+Packet: 249 BW value: BW_250
+Wed Jan 27 16:21:39 2016
+Packet: 250 BW value: BW_250
+Wed Jan 27 16:21:48 2016
+ACK from packet: 250 send at: Wed Jan 27 16:21:50 2016
+
+Packet: 251 BW value: BW_250
+Wed Jan 27 16:21:51 2016
+ACK from packet: 251 send at: Wed Jan 27 16:21:54 2016
+
+Packet: 252 BW value: BW_250
+Wed Jan 27 16:21:55 2016
+ACK from packet: 252 send at: Wed Jan 27 16:21:57 2016
+
+Packet: 253 BW value: BW_250
+Wed Jan 27 16:21:58 2016
+ACK from packet: 253 send at: Wed Jan 27 16:22:00 2016
+
+Packet: 254 BW value: BW_250
+Wed Jan 27 16:22:01 2016
+ACK from packet: 254 send at: Wed Jan 27 16:22:04 2016
+
+Packet: 255 BW value: BW_250
+Wed Jan 27 16:22:05 2016
+ACK from packet: 255 send at: Wed Jan 27 16:22:07 2016
+
+Packet: 256 BW value: BW_250
+Wed Jan 27 16:22:08 2016
+ACK from packet: 256 send at: Wed Jan 27 16:22:11 2016
+
+Packet: 257 BW value: BW_250
+Wed Jan 27 16:22:12 2016
+ACK from packet: 257 send at: Wed Jan 27 16:22:14 2016
+
+Packet: 258 BW value: BW_250
+Wed Jan 27 16:22:15 2016
+ACK from packet: 258 send at: Wed Jan 27 16:22:17 2016
+
+Packet: 259 BW value: BW_250
+Wed Jan 27 16:22:18 2016
+ACK from packet: 259 send at: Wed Jan 27 16:22:21 2016
+
+Packet: 260 BW value: BW_250
+Wed Jan 27 16:22:22 2016
+ACK from packet: 260 send at: Wed Jan 27 16:22:24 2016
+
+Packet: 261 BW value: BW_250
+Wed Jan 27 16:22:25 2016
+ACK from packet: 261 send at: Wed Jan 27 16:22:27 2016
+
+Packet: 262 BW value: BW_250
+Wed Jan 27 16:22:28 2016
+ACK from packet: 262 send at: Wed Jan 27 16:22:31 2016
+
+Packet: 263 BW value: BW_500
+Wed Jan 27 16:22:34 2016
+ACK from packet: 263 send at: Wed Jan 27 16:22:36 2016
+
+Packet: 264 BW value: BW_500
+Wed Jan 27 16:22:37 2016
+ACK from packet: 264 send at: Wed Jan 27 16:22:40 2016
+
+Packet: 265 BW value: BW_500
+Wed Jan 27 16:22:41 2016
+ACK from packet: 265 send at: Wed Jan 27 16:22:43 2016
+
+Packet: 266 BW value: BW_500
+Wed Jan 27 16:22:44 2016
+ACK from packet: 266 send at: Wed Jan 27 16:22:46 2016
+
+Packet: 267 BW value: BW_500
+Wed Jan 27 16:22:47 2016
+ACK from packet: 267 send at: Wed Jan 27 16:22:50 2016
+
+Packet: 268 BW value: BW_500
+Wed Jan 27 16:22:51 2016
+ACK from packet: 268 send at: Wed Jan 27 16:22:53 2016
+
+Packet: 269 BW value: BW_500
+Wed Jan 27 16:22:54 2016
+ACK from packet: 269 send at: Wed Jan 27 16:22:56 2016
+
+Packet: 270 BW value: BW_500
+Wed Jan 27 16:22:57 2016
+ACK from packet: 270 send at: Wed Jan 27 16:23:00 2016
+
+Packet: 271 BW value: BW_500
+Wed Jan 27 16:23:01 2016
+ACK from packet: 271 send at: Wed Jan 27 16:23:03 2016
+
+Packet: 272 BW value: BW_500
+Wed Jan 27 16:23:04 2016
+ACK from packet: 272 send at: Wed Jan 27 16:23:06 2016
+
+Packet: 273 BW value: BW_500
+Wed Jan 27 16:23:07 2016
+ACK from packet: 273 send at: Wed Jan 27 16:23:10 2016
+
+Packet: 274 BW value: BW_500
+Wed Jan 27 16:23:11 2016
+ACK from packet: 274 send at: Wed Jan 27 16:23:13 2016
+
+Packet: 275 BW value: BW_500
+Wed Jan 27 16:23:14 2016
+ACK from packet: 275 send at: Wed Jan 27 16:23:17 2016
+
+Packet: 276 BW value: BW_500
+Wed Jan 27 16:23:18 2016
+ACK from packet: 276 send at: Wed Jan 27 16:23:20 2016
+
+Packet: 277 BW value: BW_500
+Wed Jan 27 16:23:21 2016
+ACK from packet: 277 send at: Wed Jan 27 16:23:23 2016
+
+Packet: 278 BW value: BW_500
+Wed Jan 27 16:23:24 2016
+ACK from packet: 278 send at: Wed Jan 27 16:23:27 2016
+
+Packet: 279 BW value: BW_500
+Wed Jan 27 16:23:28 2016
+ACK from packet: 279 send at: Wed Jan 27 16:23:30 2016
+
+Packet: 280 BW value: BW_500
+Wed Jan 27 16:23:31 2016
+ACK from packet: 280 send at: Wed Jan 27 16:23:33 2016
+
+Packet: 281 BW value: BW_500
+Wed Jan 27 16:23:34 2016
+ACK from packet: 281 send at: Wed Jan 27 16:23:37 2016
+
+Packet: 282 BW value: BW_500
+Wed Jan 27 16:23:38 2016
+ACK from packet: 282 send at: Wed Jan 27 16:23:40 2016
+
+Packet: 283 BW value: BW_500
+Wed Jan 27 16:23:41 2016
+ACK from packet: 283 send at: Wed Jan 27 16:23:43 2016
+
+Packet: 284 BW value: BW_500
+Wed Jan 27 16:23:44 2016
+ACK from packet: 284 send at: Wed Jan 27 16:23:47 2016
+
+Packet: 285 BW value: BW_500
+Wed Jan 27 16:23:48 2016
+ACK from packet: 285 send at: Wed Jan 27 16:23:50 2016
+
+Packet: 286 BW value: BW_500
+Wed Jan 27 16:23:51 2016
+ACK from packet: 286 send at: Wed Jan 27 16:23:53 2016
+
+Packet: 287 BW value: BW_500
+Wed Jan 27 16:23:54 2016
+ACK from packet: 287 send at: Wed Jan 27 16:23:57 2016
+
+Packet: 288 BW value: BW_500
+Wed Jan 27 16:23:58 2016
+ACK from packet: 288 send at: Wed Jan 27 16:24:00 2016
+
+Packet: 289 BW value: BW_500
+Wed Jan 27 16:24:01 2016
+ACK from packet: 289 send at: Wed Jan 27 16:24:03 2016
+
+Packet: 290 BW value: BW_500
+Wed Jan 27 16:24:04 2016
+ACK from packet: 290 send at: Wed Jan 27 16:24:07 2016
+
+Packet: 291 BW value: BW_500
+Wed Jan 27 16:24:08 2016
+ACK from packet: 291 send at: Wed Jan 27 16:24:10 2016
+
+Packet: 292 BW value: BW_500
+Wed Jan 27 16:24:11 2016
+ACK from packet: 292 send at: Wed Jan 27 16:24:13 2016
+
+Packet: 293 BW value: BW_500
+Wed Jan 27 16:24:14 2016
+ACK from packet: 293 send at: Wed Jan 27 16:24:17 2016
+
+Packet: 294 BW value: BW_500
+Wed Jan 27 16:24:18 2016
+ACK from packet: 294 send at: Wed Jan 27 16:24:20 2016
+
+Packet: 295 BW value: BW_500
+Wed Jan 27 16:24:21 2016
+ACK from packet: 295 send at: Wed Jan 27 16:24:24 2016
+
+Packet: 296 BW value: BW_500
+Wed Jan 27 16:24:25 2016
+ACK from packet: 296 send at: Wed Jan 27 16:24:27 2016
+
+Packet: 297 BW value: BW_500
+Wed Jan 27 16:24:28 2016
+ACK from packet: 297 send at: Wed Jan 27 16:24:30 2016
+
+Packet: 298 BW value: BW_500
+Wed Jan 27 16:24:31 2016
+ACK from packet: 298 send at: Wed Jan 27 16:24:34 2016
+
+Packet: 299 BW value: BW_500
+Wed Jan 27 16:24:35 2016
+ACK from packet: 299 send at: Wed Jan 27 16:24:37 2016
+
+Packet: 300 BW value: BW_500
+Wed Jan 27 16:24:38 2016
+ACK from packet: 300 send at: Wed Jan 27 16:24:40 2016
+
+Packet: 301 BW value: BW_500
+Wed Jan 27 16:24:41 2016
+ACK from packet: 301 send at: Wed Jan 27 16:24:44 2016
+
+Packet: 302 BW value: BW_500
+Wed Jan 27 16:24:45 2016
+ACK from packet: 302 send at: Wed Jan 27 16:24:47 2016
+
+Packet: 303 BW value: BW_500
+Wed Jan 27 16:24:48 2016
+ACK from packet: 303 send at: Wed Jan 27 16:24:50 2016
+
+Packet: 304 BW value: BW_500
+Wed Jan 27 16:24:51 2016
+ACK from packet: 304 send at: Wed Jan 27 16:24:54 2016
+
+Packet: 305 BW value: BW_500
+Wed Jan 27 16:24:55 2016
+ACK from packet: 305 send at: Wed Jan 27 16:24:57 2016
+
+Packet: 306 BW value: BW_500
+Wed Jan 27 16:24:58 2016
+ACK from packet: 306 send at: Wed Jan 27 16:25:00 2016
+
+Packet: 307 BW value: BW_500
+Wed Jan 27 16:25:01 2016
+ACK from packet: 307 send at: Wed Jan 27 16:25:04 2016
+
+Packet: 308 BW value: BW_500
+Wed Jan 27 16:25:05 2016
+ACK from packet: 308 send at: Wed Jan 27 16:25:07 2016
+
+Packet: 309 BW value: BW_500
+Wed Jan 27 16:25:08 2016
+ACK from packet: 309 send at: Wed Jan 27 16:25:10 2016
+
+Packet: 310 BW value: BW_500
+Wed Jan 27 16:25:11 2016
+ACK from packet: 310 send at: Wed Jan 27 16:25:14 2016
+
+Packet: 311 BW value: BW_500
+Wed Jan 27 16:25:15 2016
+ACK from packet: 311 send at: Wed Jan 27 16:25:17 2016
+
+Packet: 312 BW value: BW_500
+Wed Jan 27 16:25:18 2016
+ACK from packet: 312 send at: Wed Jan 27 16:25:21 2016
+
+Packet: 313 BW value: BW_500
+Wed Jan 27 16:25:22 2016
+ACK from packet: 313 send at: Wed Jan 27 16:25:24 2016
+
+Packet: 314 BW value: BW_500
+Wed Jan 27 16:25:25 2016
+ACK from packet: 314 send at: Wed Jan 27 16:25:27 2016
+
+Packet: 315 BW value: BW_500
+Wed Jan 27 16:25:28 2016
+ACK from packet: 315 send at: Wed Jan 27 16:25:31 2016
+
+Packet: 316 BW value: BW_500
+Wed Jan 27 16:25:32 2016
+ACK from packet: 316 send at: Wed Jan 27 16:25:34 2016
+
+Packet: 317 BW value: BW_500
+Wed Jan 27 16:25:35 2016
+ACK from packet: 317 send at: Wed Jan 27 16:25:37 2016
+
+Packet: 318 BW value: BW_500
+Wed Jan 27 16:25:38 2016
+ACK from packet: 318 send at: Wed Jan 27 16:25:41 2016
+
+Packet: 319 BW value: BW_500
+Wed Jan 27 16:25:42 2016
+ACK from packet: 319 send at: Wed Jan 27 16:25:44 2016
+
+Packet: 320 BW value: BW_500
+Wed Jan 27 16:25:45 2016
+ACK from packet: 320 send at: Wed Jan 27 16:25:47 2016
+
+Packet: 321 BW value: BW_500
+Wed Jan 27 16:25:48 2016
+ACK from packet: 321 send at: Wed Jan 27 16:25:51 2016
+
+Packet: 322 BW value: BW_500
+Wed Jan 27 16:25:52 2016
+ACK from packet: 322 send at: Wed Jan 27 16:25:54 2016
+
+Packet: 323 BW value: BW_500
+Wed Jan 27 16:25:55 2016
+ACK from packet: 323 send at: Wed Jan 27 16:25:57 2016
+
+Packet: 324 BW value: BW_500
+Wed Jan 27 16:25:58 2016
+ACK from packet: 324 send at: Wed Jan 27 16:26:01 2016
+
+Packet: 325 BW value: BW_500
+Wed Jan 27 16:26:02 2016
+ACK from packet: 325 send at: Wed Jan 27 16:26:04 2016
+
+Packet: 326 BW value: BW_500
+Wed Jan 27 16:26:05 2016
+ACK from packet: 326 send at: Wed Jan 27 16:26:07 2016
+
+Packet: 327 BW value: BW_500
+Wed Jan 27 16:26:08 2016
+ACK from packet: 327 send at: Wed Jan 27 16:26:11 2016
+
+Packet: 328 BW value: BW_500
+Wed Jan 27 16:26:12 2016
+ACK from packet: 328 send at: Wed Jan 27 16:26:14 2016
+
+Packet: 329 BW value: BW_500
+Wed Jan 27 16:26:15 2016
+ACK from packet: 329 send at: Wed Jan 27 16:26:17 2016
+
+Packet: 330 BW value: BW_500
+Wed Jan 27 16:26:18 2016
+ACK from packet: 330 send at: Wed Jan 27 16:26:21 2016
+
+Packet: 331 BW value: BW_500
+Wed Jan 27 16:26:22 2016
+ACK from packet: 331 send at: Wed Jan 27 16:26:24 2016
+
+Packet: 332 BW value: BW_500
+Wed Jan 27 16:26:25 2016
+ACK from packet: 332 send at: Wed Jan 27 16:26:28 2016
+
+Packet: 333 BW value: BW_500
+Wed Jan 27 16:26:29 2016
+ACK from packet: 333 send at: Wed Jan 27 16:26:31 2016
+
+Packet: 334 BW value: BW_500
+Wed Jan 27 16:26:32 2016
+ACK from packet: 334 send at: Wed Jan 27 16:26:34 2016
+
+Packet: 335 BW value: BW_500
+Wed Jan 27 16:26:35 2016
+ACK from packet: 335 send at: Wed Jan 27 16:26:38 2016
+
+Packet: 336 BW value: BW_500
+Wed Jan 27 16:26:39 2016
+ACK from packet: 336 send at: Wed Jan 27 16:26:41 2016
+
+Packet: 337 BW value: BW_500
+Wed Jan 27 16:26:42 2016
+ACK from packet: 337 send at: Wed Jan 27 16:26:44 2016
+
+Packet: 338 BW value: BW_500
+Wed Jan 27 16:26:45 2016
+ACK from packet: 338 send at: Wed Jan 27 16:26:48 2016
+
+Packet: 339 BW value: BW_500
+Wed Jan 27 16:26:49 2016
+ACK from packet: 339 send at: Wed Jan 27 16:26:51 2016
+
+Packet: 340 BW value: BW_500
+Wed Jan 27 16:26:52 2016
+ACK from packet: 340 send at: Wed Jan 27 16:26:54 2016
+
+Packet: 341 BW value: BW_500
+Wed Jan 27 16:26:55 2016
+ACK from packet: 341 send at: Wed Jan 27 16:26:58 2016
+
+Packet: 342 BW value: BW_500
+Wed Jan 27 16:26:59 2016
+ACK from packet: 342 send at: Wed Jan 27 16:27:01 2016
+
+Packet: 343 BW value: BW_500
+Wed Jan 27 16:27:02 2016
+ACK from packet: 343 send at: Wed Jan 27 16:27:04 2016
+
+Packet: 344 BW value: BW_500
+Wed Jan 27 16:27:05 2016
+ACK from packet: 344 send at: Wed Jan 27 16:27:08 2016
+
+Packet: 345 BW value: BW_500
+Wed Jan 27 16:27:09 2016
+ACK from packet: 345 send at: Wed Jan 27 16:27:11 2016
+
+Packet: 346 BW value: BW_500
+Wed Jan 27 16:27:12 2016
+ACK from packet: 346 send at: Wed Jan 27 16:27:14 2016
+
+Packet: 347 BW value: BW_500
+Wed Jan 27 16:27:15 2016
+ACK from packet: 347 send at: Wed Jan 27 16:27:18 2016
+
+Packet: 348 BW value: BW_500
+Wed Jan 27 16:27:19 2016
+ACK from packet: 348 send at: Wed Jan 27 16:27:21 2016
+
+Packet: 349 BW value: BW_500
+Wed Jan 27 16:27:22 2016
+ACK from packet: 349 send at: Wed Jan 27 16:27:24 2016
+
+Packet: 350 BW value: BW_500
+Wed Jan 27 16:27:25 2016
+ACK from packet: 350 send at: Wed Jan 27 16:27:28 2016
+
+Packet: 351 BW value: BW_500
+Wed Jan 27 16:27:29 2016
+ACK from packet: 351 send at: Wed Jan 27 16:27:31 2016
+
+Packet: 352 BW value: BW_500
+Wed Jan 27 16:27:32 2016
+ACK from packet: 352 send at: Wed Jan 27 16:27:35 2016
+
+Packet: 353 BW value: BW_500
+Wed Jan 27 16:27:36 2016
+ACK from packet: 353 send at: Wed Jan 27 16:27:38 2016
+
+Packet: 354 BW value: BW_500
+Wed Jan 27 16:27:39 2016
+ACK from packet: 354 send at: Wed Jan 27 16:27:41 2016
+
+Packet: 355 BW value: BW_500
+Wed Jan 27 16:27:42 2016
+ACK from packet: 355 send at: Wed Jan 27 16:27:45 2016
+
+Packet: 356 BW value: BW_500
+Wed Jan 27 16:27:46 2016
+ACK from packet: 356 send at: Wed Jan 27 16:27:48 2016
+
+Packet: 357 BW value: BW_500
+Wed Jan 27 16:27:49 2016
+ACK from packet: 357 send at: Wed Jan 27 16:27:51 2016
+
+Packet: 358 BW value: BW_500
+Wed Jan 27 16:27:52 2016
+ACK from packet: 358 send at: Wed Jan 27 16:27:55 2016
+
+Packet: 359 BW value: BW_500
+Wed Jan 27 16:27:56 2016
+ACK from packet: 359 send at: Wed Jan 27 16:27:58 2016
+
+Packet: 360 BW value: BW_500
+Wed Jan 27 16:27:59 2016
+ACK from packet: 360 send at: Wed Jan 27 16:28:01 2016
+
+Packet: 361 BW value: BW_500
+Wed Jan 27 16:28:02 2016
+ACK from packet: 361 send at: Wed Jan 27 16:28:05 2016
+
+Packet: 362 BW value: BW_500
+Wed Jan 27 16:28:06 2016
+ACK from packet: 362 send at: Wed Jan 27 16:28:08 2016
+
+Packet: 363 BW value: BW_500
+Wed Jan 27 16:28:09 2016
+ACK from packet: 363 send at: Wed Jan 27 16:28:11 2016
+
+Packet: 364 BW value: BW_500
+Wed Jan 27 16:28:12 2016
+ACK from packet: 364 send at: Wed Jan 27 16:28:15 2016
+
+Packet: 365 BW value: BW_500
+Wed Jan 27 16:28:16 2016
+ACK from packet: 365 send at: Wed Jan 27 16:28:18 2016
+
+Packet: 366 BW value: BW_500
+Wed Jan 27 16:28:19 2016
+ACK from packet: 366 send at: Wed Jan 27 16:28:21 2016
+
+Packet: 367 BW value: BW_500
+Wed Jan 27 16:28:22 2016
+ACK from packet: 367 send at: Wed Jan 27 16:28:25 2016
+
+Packet: 368 BW value: BW_500
+Wed Jan 27 16:28:26 2016
+ACK from packet: 368 send at: Wed Jan 27 16:28:28 2016
+
+Packet: 369 BW value: BW_500
+Wed Jan 27 16:28:29 2016
+ACK from packet: 369 send at: Wed Jan 27 16:28:32 2016
+
+Packet: 370 BW value: BW_500
+Wed Jan 27 16:28:33 2016
+ACK from packet: 370 send at: Wed Jan 27 16:28:35 2016
+
+Packet: 371 BW value: BW_500
+Wed Jan 27 16:28:36 2016
+ACK from packet: 371 send at: Wed Jan 27 16:28:38 2016
+
+Packet: 372 BW value: BW_500
+Wed Jan 27 16:28:39 2016
+ACK from packet: 372 send at: Wed Jan 27 16:28:42 2016
+
+Packet: 373 BW value: BW_500
+Wed Jan 27 16:28:43 2016
+ACK from packet: 373 send at: Wed Jan 27 16:28:45 2016
+
+Packet: 374 BW value: BW_500
+Wed Jan 27 16:28:46 2016
+ACK from packet: 374 send at: Wed Jan 27 16:28:48 2016
+
+Packet: 375 BW value: BW_500
+Wed Jan 27 16:28:49 2016
+ACK from packet: 375 send at: Wed Jan 27 16:28:52 2016
+
+Packet: 376 BW value: BW_500
+Wed Jan 27 16:28:53 2016
+ACK from packet: 376 send at: Wed Jan 27 16:28:55 2016
+
+Packet: 377 BW value: BW_500
+Wed Jan 27 16:28:56 2016
+ACK from packet: 377 send at: Wed Jan 27 16:28:58 2016
+
+Packet: 378 BW value: BW_500
+Wed Jan 27 16:28:59 2016
+ACK from packet: 378 send at: Wed Jan 27 16:29:02 2016
+
+Packet: 379 BW value: BW_500
+Wed Jan 27 16:29:03 2016
+ACK from packet: 379 send at: Wed Jan 27 16:29:05 2016
+
+Packet: 380 BW value: BW_500
+Wed Jan 27 16:29:06 2016
+ACK from packet: 380 send at: Wed Jan 27 16:29:08 2016
+
+Packet: 381 BW value: BW_500
+Wed Jan 27 16:29:09 2016
+ACK from packet: 381 send at: Wed Jan 27 16:29:12 2016
+
+Packet: 382 BW value: BW_500
+Wed Jan 27 16:29:13 2016
+ACK from packet: 382 send at: Wed Jan 27 16:29:15 2016
+
+Packet: 383 BW value: BW_500
+Wed Jan 27 16:29:16 2016
+ACK from packet: 383 send at: Wed Jan 27 16:29:18 2016
+
+Packet: 384 BW value: BW_500
+Wed Jan 27 16:29:19 2016
+ACK from packet: 384 send at: Wed Jan 27 16:29:22 2016
+
+Packet: 385 BW value: BW_500
+Wed Jan 27 16:29:23 2016
+ACK from packet: 385 send at: Wed Jan 27 16:29:25 2016
+
+Packet: 386 BW value: BW_500
+Wed Jan 27 16:29:26 2016
+ACK from packet: 386 send at: Wed Jan 27 16:29:28 2016
+
+Packet: 387 BW value: BW_500
+Wed Jan 27 16:29:29 2016
+ACK from packet: 387 send at: Wed Jan 27 16:29:32 2016
+
+Packet: 388 BW value: BW_500
+Wed Jan 27 16:29:33 2016
+ACK from packet: 388 send at: Wed Jan 27 16:29:35 2016
+
+Packet: 389 BW value: BW_500
+Wed Jan 27 16:29:36 2016
+ACK from packet: 389 send at: Wed Jan 27 16:29:39 2016
+
+Packet: 390 BW value: BW_500
+Wed Jan 27 16:29:40 2016
+ACK from packet: 390 send at: Wed Jan 27 16:29:42 2016
+
+Packet: 391 BW value: BW_500
+Wed Jan 27 16:29:43 2016
+ACK from packet: 391 send at: Wed Jan 27 16:29:45 2016
+
+Packet: 392 BW value: BW_500
+Wed Jan 27 16:29:46 2016
+ACK from packet: 392 send at: Wed Jan 27 16:29:49 2016
+
+Packet: 393 BW value: BW_500
+Wed Jan 27 16:29:50 2016
+ACK from packet: 393 send at: Wed Jan 27 16:29:52 2016
+
+Packet: 394 BW value: BW_500
+Wed Jan 27 16:29:53 2016
+ACK from packet: 394 send at: Wed Jan 27 16:29:55 2016
+
+Packet: 395 BW value: BW_500
+Wed Jan 27 16:29:56 2016
+ACK from packet: 395 send at: Wed Jan 27 16:29:59 2016
+
+Packet: 396 BW value: BW_500
+Wed Jan 27 16:30:00 2016
+ACK from packet: 396 send at: Wed Jan 27 16:30:02 2016
+

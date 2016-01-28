@@ -1,0 +1,12 @@
+Packet: 0 SF value: SF_7
+Wed Jan 27 16:44:46 2016
+ACK from packet: 0 send at: Wed Jan 27 16:44:50 2016
+
+Packet: 1 SF value: SF_7
+Wed Jan 27 16:44:51 2016
+ACK from packet: 1 send at: Wed Jan 27 16:44:55 2016
+
+Packet: 2 SF value: SF_7
+Wed Jan 27 16:44:56 2016
+ACK from packet: 2 send at: Wed Jan 27 16:45:00 2016
+
