@@ -130,7 +130,11 @@ void loop(string sf_value)
 
    if (e == 0){
 	char* time = timestamp();
+<<<<<<< HEAD:CompiledCode/REALWORKINGLORATRANSMITTER/transmitterSF.cpp
     	myfile.open("logTRANSF.txt",std::ofstream::out | std::ofstream::app);
+=======
+    	myfile.open("log.txt",std::ofstream::out | std::ofstream::app);
+>>>>>>> origin/master:LoraFinalTestCode/WORKINGLORATRANSMITTER/transmitter.cpp
     	myfile <<  "ACK from packet: " + std::to_string(packetCounter) + " send at: " + std::string(time) + "\n";
     	myfile.close();
    }
@@ -155,13 +159,18 @@ void runSFTimer ( int seconds, string sf_value )
 
 int main (){
 	setup();
+<<<<<<< HEAD:CompiledCode/REALWORKINGLORATRANSMITTER/transmitterSF.cpp
 	sx1272.setSF(SF_11);
+=======
+	sx1272.setSF(SF_6);
+>>>>>>> origin/master:LoraFinalTestCode/WORKINGLORATRANSMITTER/transmitter.cpp
 
 	int i = checkIfOnline();
 	while (i != 0){
 		i = checkIfOnline();
 	}
 	if(i == 0){
+<<<<<<< HEAD:CompiledCode/REALWORKINGLORATRANSMITTER/transmitterSF.cpp
 	runSFTimer(120, "SF_11");
 	sendNewSFValue("NEW_SF_12");
 	
@@ -187,6 +196,33 @@ int main (){
 
 	//sx1272.setSF(SF_12);
         //runSFTimer(180, "SF_12");
+=======
+	runSFTimer(180, "SF_6");
+	sendNewSFValue("NEW_SF_7");
+	
+	sx1272.setSF(SF_7);	
+	runSFTimer(180, "SF_7");
+	sendNewSFValue("NEW_SF_8");
+	
+	sx1272.setSF(SF_8);
+	runSFTimer(180, "SF_8");
+	sendNewSFValue("NEW_SF_9");
+
+	sx1272.setSF(SF_9);
+        runSFTimer(180, "SF_9");
+	sendNewSFValue("NEW_SF_10");
+	
+	sx1272.setSF(SF_10);
+        runSFTimer(180, "SF_10");
+	sendNewSFValue("NEW_SF_11");
+	
+	sx1272.setSF(SF_11);
+        runSFTimer(180, "SF_11");
+	sendNewSFValue("NEW_SF_12");
+
+	sx1272.setSF(SF_12);
+        runSFTimer(180, "SF_12");
+>>>>>>> origin/master:LoraFinalTestCode/WORKINGLORATRANSMITTER/transmitter.cpp
 
 	//sx1272.setSF(SF_12);
         //runSFTimer(300, "SF_12");

@@ -167,9 +167,13 @@ void loop(void)
 int main (){
 	setup();
 	//Set first value possible
+<<<<<<< HEAD:CompiledCode/REALWORKINGLORARECEIVER/receiverBW.cpp
     sx1272.setBW(125);
+=======
+	sx1272.setSF(SF_6);
+>>>>>>> origin/master:LoraFinalTestCode/WORKINGLORARECEIVER/receiver.cpp
 	while(true){
 		loop();
 	}
-	return (0);
+	return (0);	
 }
